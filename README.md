@@ -32,7 +32,7 @@ Here are some technologies and skills I use:
 
 Here are the most used languages and tools:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?batuhankaan=yourusername&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=batuhankaan&layout=compact)
 
 ## Contribution
 
