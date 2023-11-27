@@ -4,6 +4,8 @@
 
 As a front-end developer and open-source enthusiast, I share my projects and experiments here. You can find more information on my [Personal Website](https://www.batuhankaan.com).
 
+![](https://komarev.com/ghpvc/?username=batuhankaan)
+
 ## 🛠️ Technologies and Skills
 
 Here are some technologies and skills I use:
